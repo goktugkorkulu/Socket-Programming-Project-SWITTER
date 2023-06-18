@@ -1,0 +1,64 @@
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\katma\source\repos\server_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\katma\source\repos\server_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\katma\source\repos\server_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\katma\source\repos\server_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\katma\source\repos\server_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\source\repos\server_1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\source\repos\server_1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\OneDrive\Masaüstü\Sabancı\3\301\CS 408\Project\Step 1\kaanatmaca_atmaca_kaan_step1\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\katma\OneDrive\Masaüstü\kaanatmaca_atmaca_kaan_step2\server\server\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
